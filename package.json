@@ -1,8 +1,8 @@
 {
-  "name": "Liga-A-accelerator-template",
+  "name": "israel-journey",
   "version": "2.0.0",
   "type": "module",
-  "description": "Стартовый шаблон сборки Лиги А",
+  "description": "Лендинг компании, организующей учебные стажировки в Израиле",
   "browserslist": [
     "last 3 versions",
     "IE 11",
